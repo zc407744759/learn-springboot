@@ -8,5 +8,6 @@ public class QuickStartApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(QuickStartApplication.class, args);
+		//
 	}
 }
